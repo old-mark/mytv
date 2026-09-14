@@ -1,2 +1,2 @@
 # mytv
-homeonly
+test only 
